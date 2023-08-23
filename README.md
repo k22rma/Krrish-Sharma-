@@ -3,7 +3,7 @@
 - 👋 Hi, I’m Krrish Sharama 
 - 👀 I’m interested in _you_
 - 🧠 I’m currently learning web
-- 🌍 How to reach me (no possible way)
+- 🌍 How to reach me (knock every door on earth and find me(hint - i look like jesus))
 
  <p align="center">
   <a href="https://javascript.org" target="_blank"><img alt="home" src="https://img.shields.io/badge/I love Javascript-red?style=for-the-badge&logo=javascript&logoColor="></a>
